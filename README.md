@@ -1,6 +1,3 @@
-# mlfs-book
-O'Reilly book - Building Machine Learning Systems with a feature store: batch, real-time, and LLMs
-
 # Scalable Machine Learning and Deep Learning - Assignment 1
 
 This repository contains the first assignment for the course **Scalable Machine Learning and Deep Learning (ID2223)**.[ID2223](https://www.kth.se/student/kurser/kurs/ID2223?l=en). Further information regarding the steps followed in this repository can also be found in the O'Reilly book **Building Machine Learning Systems with a Feature Store: Batch, Real-Time, and LLMs**.
@@ -44,19 +41,6 @@ This notebook performs daily batch predictions for future PM2.5 levels. It uses 
 ## Summary
 This project demonstrates the integration of lagged features into the machine learning pipeline for improved air quality predictions. Each notebook plays a key role in ensuring a seamless end-to-end workflow, from feature engineering to model training and inference.
 
-## ML System Examples
 
-
-[Dashboards for Example ML Systems](https://featurestorebook.github.io/mlfs-book/)
-
-## Course Comparison
-
-| Course                         | MLOps | LLLMs             | Feature/Training/Inference | Working AI Systems | Focus |
-|--------------------------------|-------|----------------------------|--------------------|------------------|
-| Building AI Systems (O'Reilly) | Yes   | Fine-Tuning & RAG | Yes                        | High               | Project-based, Software Engineering, Fundamentals    |
-| [Made With ML](https://madewithml.com/)                   | No          | Yes   | No                         | No                 | Software Engineering, Model Training   |
-| [7 Steps MLOps](https://www.pauliusztin.me/courses/the-full-stack-7-steps-mlops-framework)            | Yes   | Separate Course    | Yes                        | Low                | Learning Tools and Project    |
-
-
-### win user
+### Dashboard
 [Dashboard](https://davidenascivera.github.io/mlfs-book/air-quality/)
