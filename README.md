@@ -3,12 +3,14 @@ O'Reilly book - Building Machine Learning Systems with a feature store: batch, r
 
 # Scalable Machine Learning and Deep Learning - Assignment 1
 
-This repository contains the first assignment for the course **Scalable Machine Learning and Deep Learning (ID2223)**. For more information about the course, visit [this link](https://www.kth.se/student/kurser/kurs/ID2223?l=en).
+This repository contains the first assignment for the course **Scalable Machine Learning and Deep Learning (ID2223)**.[ID2223](https://www.kth.se/student/kurser/kurs/ID2223?l=en). Further information regarding the steps followed in this repository can also be found in the O'Reilly book **Building Machine Learning Systems with a Feature Store: Batch, Real-Time, and LLMs**.
 
 ## Authors
-This work was conducted collaboratively by Davide Nascivera and Andrei Tuturea, with the implementation of the lagged weather feature exclusively in this repository.
+This work was conducted collaboratively by Davide Nascivera and Andrei Tuturea. The lagged weather feature was exclusively implemented in this repository. 
+All steps performed align with the instructions provided in the lab guide, 1-7.
 
 ---
+
 
 ## Edited Files
 
@@ -21,7 +23,7 @@ The `air_quality` FeatureGroup was updated to include lagged PM2.5 values. The f
 | 2024-11-05        | 11.0      | 7.0             | 6.0             | 5.0             | Sweden      | Stockholm     | Hornsgatan     | [Link](https://api.waqi.info/feed/@10009/) |
 
 ### **2_air_quality_feature_pipeline.ipynb**
-A daily GitHub Actions workflow runs this notebook. It appends a new row to the FeatureGroup, updating the lagged PM2.5 features by shifting the values accordingly.
+A daily GitHub Actions workflow runs this notebook. It appends a new row to the FeatureGroup, updating the lagged PM2.5 features by shifting the historic data accordingly.
 
 ### **3_air_quality_training_pipeline.ipynb**
 The training pipeline now incorporates lagged PM2.5 features (`pm2_5_lag_1`, `pm2_5_lag_2`, and `pm2_5_lag_3`) for predictions. Below is an example of the training data:
