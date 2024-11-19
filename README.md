@@ -4,7 +4,7 @@ This repository contains the first assignment for the course **Scalable Machine 
 
 ## Authors
 This work was conducted collaboratively by Davide Nascivera and Andrei Tuturea. The lagged weather feature was exclusively implemented in this repository. 
-All steps performed align with the instructions provided in the lab guide, 1-7.
+All steps performed align with the instructions provided in the lab guide, 1-6.
 
 ---
 
