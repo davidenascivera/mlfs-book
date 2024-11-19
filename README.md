@@ -3,7 +3,7 @@
 This repository contains the first assignment for the course **Scalable Machine Learning and Deep Learning (ID2223)**.[ID2223](https://www.kth.se/student/kurser/kurs/ID2223?l=en). Further information regarding the steps followed in this repository can also be found in the O'Reilly book **Building Machine Learning Systems with a Feature Store: Batch, Real-Time, and LLMs**.
 
 ## Authors
-This work was conducted collaboratively by Davide Nascivera and Andrei Tuturea. The lagged weather feature was exclusively implemented in this repository. 
+This work was conducted collaboratively by Davide Nascivera and Andrei Tuturea. The lagged weather feature was exclusively implemented in [this](https://github.com/andreitut703/mlfs-book) repository. 
 All steps performed align with the instructions provided in the lab guide, 1-6.
 
 ---
