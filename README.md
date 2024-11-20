@@ -16,8 +16,6 @@ This work was conducted collaboratively by Davide Nascivera and Andrei Tuturea. 
 ---
 
 ## Step 6: Rolling Window Feature Integration
-
-### **Overview**
 The following files were modified to integrate the rolling window feature:
 
 ### **Modified Files**
