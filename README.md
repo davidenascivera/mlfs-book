@@ -55,5 +55,6 @@ This project demonstrates the integration of rolling window features to improve 
 This project demonstrates the integration of lagged features into the machine learning pipeline for improved air quality predictions. Each notebook plays a key role in ensuring a seamless end-to-end workflow, from feature engineering to model training and inference.
 
 
-### Dashboard
-[Dashboard](https://davidenascivera.github.io/mlfs-book/air-quality/)
+### Dashboard  
+Explore the results of the pipeline on the interactive [Dashboard](https://davidenascivera.github.io/mlfs-book/air-quality/).
+
