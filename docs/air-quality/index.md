@@ -18,7 +18,7 @@ powered by a [function-calling LLM](https://www.hopsworks.ai/dictionary/function
 
 
 
-#ROLLING WINDOWS
+# ROLLING WINDOWS
 
 ![Forecast](./assets/img/pm25_forecast.png)
 
