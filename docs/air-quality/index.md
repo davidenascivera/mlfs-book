@@ -20,7 +20,7 @@ powered by a [function-calling LLM](https://www.hopsworks.ai/dictionary/function
 
 # ROLLING WINDOWS
 
-![Forecast](./assets/img/pm25_forecast.png)
+![Forecast](./assets/img/pm25_forecast_rolling.png)
 
 
 ![Hindcast](./assets/img/pm25_hindcast_1day_rolling.png)
