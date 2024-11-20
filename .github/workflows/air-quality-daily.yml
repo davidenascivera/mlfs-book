@@ -1,4 +1,4 @@
-name: air-quality-daily-rolling
+name: air-quality-daily
 
 on:
   workflow_dispatch:
