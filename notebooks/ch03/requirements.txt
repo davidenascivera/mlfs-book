@@ -1,6 +1,5 @@
 # Feature store and model registry
 hopsworks[python]
-great_expectations
 
 # Resolve city names from (longitude, latitude) coordinates
 geopy==2.4.1
