@@ -3,7 +3,7 @@ hopsworks[python]
 
 # Resolve city names from (longitude, latitude) coordinates
 geopy==2.4.1
-
+jupyter
 # Read weather data. Unpinned version - if we don't update, we won't get the weather data
 openmeteo-requests
 
