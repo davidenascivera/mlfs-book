@@ -1,6 +1,6 @@
 # Feature store and model registry
 hopsworks[python]
-
+great_expectations==0.18.12
 # Resolve city names from (longitude, latitude) coordinates
 geopy==2.4.1
 jupyter
